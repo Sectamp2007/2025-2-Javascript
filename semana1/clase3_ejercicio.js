@@ -15,7 +15,7 @@ async function main() {
     console.log(diasSemana[dia - 1]);
   }
   else {
-    console.log("Numero no válido");
+    console.log("Numero no válid");
   }
 }
 
