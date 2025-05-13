@@ -1,11 +1,9 @@
-//practicar en casa 
-//
+// Práctica para casa:
+// Imprimir números pares del 1 al 100
+const { ask } = require('../helpers/input');
 
-const {ask} = requiere( '../helper/input');
-
-async function main(){
+async function main() {
 
 }
 
 main();
-    
