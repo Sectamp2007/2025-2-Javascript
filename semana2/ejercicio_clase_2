@@ -1,0 +1,11 @@
+const { ask } = require('../helpers/input');
+
+async function main(){
+    let opcion ='';
+    let frutas =[]
+
+    while(opcion !=='3'){
+        opcion = await ask('¿que deseas hacer?')
+    }
+
+}
